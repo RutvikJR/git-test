@@ -3,6 +3,7 @@ import { Link, Outlet } from "react-router-dom";
 const Layout = () => {
   return (
     <>
+      <h1 className="text-xl text-cyan-600 font-semibold text-center">Git Test</h1>
       <nav>
         <ul>
           <li>
