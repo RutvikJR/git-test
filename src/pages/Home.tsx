@@ -18,6 +18,7 @@ const Home = () => {
     <div>
       <div className="m-2 text-xl font-semibold">Page: home</div>
       <div className="m-2 text-xl font-semibold">counter</div>
+      <div className="m-2 text-xl font-semibold">test 1</div>
       <div className="m-2 text-xl font-semibold">{count}</div>
       <button
         className="p-4 bg-cyan-600 text-white m-2 rounded-lg"
